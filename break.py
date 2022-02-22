@@ -13,6 +13,7 @@ doc = docx.Document()
 
 
 # CHANGE THIS TEXT FILE FOR THE DIVISION ----------------------------
+# are you able to change the format with python and save as pdf as well
 
 f = open("Barrie employee abstracts from MTO - Jan 2020.txt", "r")
 
