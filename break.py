@@ -17,6 +17,7 @@ doc = docx.Document()
 # export directly to write to a PDF file with page breaks (import FPDF), bypass the word doc
 # its an IT initiative, although Skillen only asks for it quarterly
 # install python on user's machine or on the server
+# blogTO yonge st clair
 
 f = open("Barrie employee abstracts from MTO - Jan 2020.txt", "r")
 
