@@ -18,7 +18,7 @@ doc = docx.Document()
 # its an IT initiative, although Skillen only asks for it quarterly
 # install python on user's machine or on the server
 # blogTO yonge st clair - Employee abstracts as well as driver abstracts - Add page breaks
-# Barrie km odo correction
+# Barrie km odo correction, cold condensation
 
 f = open("Barrie employee abstracts from MTO - Jan 2020.txt", "r")
 
