@@ -19,6 +19,7 @@ doc = docx.Document()
 # install python on user's machine or on the server
 # blogTO yonge st clair - Employee abstracts as well as driver abstracts - Add page breaks
 # Barrie km odo correction, cold condensation
+# to facilitate the UI interface, form fields need to be added as in the pdf form
 
 f = open("Barrie employee abstracts from MTO - Jan 2020.txt", "r")
 
