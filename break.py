@@ -15,7 +15,7 @@ doc = docx.Document()
 # CHANGE THIS TEXT FILE FOR THE DIVISION ----------------------------
 # are you able to change the format with python and save as pdf as well (using docx2pdf)
 # as of Mar 2023, use from fpdf import FPDF, this will write to a pdf file directly and use pdf.add_page() for the page breaks
-# export directly to write to a PDF file with page breaks (import FPDF), bypass the word doc
+# export directly to write to a PDF file with page breaks (import FPDF), bypass the word doc, there are also
 # its an IT initiative, although safety only asks for it quarterly, active directory
 # install python on user's machine or on the server
 # blogTO yonge st clair - Employee abstracts as well as driver abstracts - Add page breaks
