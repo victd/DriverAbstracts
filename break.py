@@ -20,7 +20,7 @@ doc = docx.Document()
 # its an IT initiative, although safety only asks for it quarterly, active directory
 # install python on user's machine or on the server
 # blogTO yonge st clair - Employee abstracts as well as driver abstracts - Add page breaks
-# Barrie km odo correction, cold condensation
+# Barrie km odo correction, cold condensation, photochromic lens
 # to facilitate the UI interface, form fields need to be added as in the pdf form, logos and images, tables, lines
 # convert special characterss and Greek alphabet to plain text - escape characters excluded, prevent cross site scripts
 
