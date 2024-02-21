@@ -22,7 +22,7 @@ doc = docx.Document()
 # blogTO yonge st clair - Employee abstracts as well as driver abstracts - Add page breaks
 # Barrie km odo correction, cold condensation, photochromic lens
 # to facilitate the UI interface, form fields need to be added as in the pdf form, logos and images, tables, lines
-# convert special characterss and Greek alphabet to plain text - escape characters excluded, prevent cross site scripts
+# convert special characters and Aramaic alphabet to plain text - escape characters excluded, prevent cross site scripts
 
 f = open("Barrie employee abstracts from MTO - Jan 2020.txt", "r")
 
